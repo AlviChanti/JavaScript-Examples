@@ -7,8 +7,8 @@ body {
     
 }
 .input-js{
-/*     display: block;
-    min-width: 320px; */
+    display: block;
+    min-width: 320px;
     max-width: 500px;
     margin: auto;
     border: 3px solid #73AD21;
@@ -20,8 +20,8 @@ body {
     position: absolute;
 }
 .add-js {
-/*     display: block;
-    min-width: 320px; */
+    display: block;
+    min-width: 50px;
     max-width: 500px;
     margin: auto;
     user-select: none;
@@ -30,7 +30,7 @@ body {
     border-bottom-right-radius: 10px;
     background-color: lightpink;
     cursor: pointer;
-    position: relative;
+    position: absolute;
 }
 .input-js, .add-js {
     padding: 10px;

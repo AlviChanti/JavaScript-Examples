@@ -10,3 +10,4 @@ document.addEventListener("keydown", (event) => {
   if (event.key === "Backspace" || event.key === "Delete") {
     selection.deleteFromDocument(); }});
 
+//THE SHORTEST POSSIBLE TO-DO LIST IN JAVASCRIPT 11 LINES OF CODE
