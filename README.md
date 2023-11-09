@@ -1,3 +1,3 @@
 ﻿# JavaScript-Examples
- The Shortest possible todo list in JavaScript 
+ The shortest possible todo list in JavaScript 
  
